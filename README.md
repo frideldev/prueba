@@ -43,7 +43,3 @@ graph TD
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> K[Alta Rotación de Personal]
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> L[Pérdida de Competitividad]
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> M[Incremento de Costos]
-atisfacción del Cliente]
-    E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> K[Alta Rotación de Personal]
-    E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> L[Pérdida de Competitividad]
-    E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> M[Incremento de Costos]
