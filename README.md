@@ -1,3 +1,8 @@
+# Árbol de Problemas: Falta de Verdadera Agilidad en el Desarrollo de Software
+
+A continuación se presenta el árbol de problemas que identifica las causas principales y los efectos de la falta de verdadera agilidad en el desarrollo de software con metodologías ágiles.
+
+```mermaid
 graph TD
     A[Falta de verdadera agilidad en el desarrollo de software con metodologías ágiles]
     
@@ -35,6 +40,10 @@ graph TD
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> H[Baja Productividad]
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> I[Baja Calidad del Software]
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> J[Insatisfacción del Cliente]
+    E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> K[Alta Rotación de Personal]
+    E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> L[Pérdida de Competitividad]
+    E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> M[Incremento de Costos]
+atisfacción del Cliente]
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> K[Alta Rotación de Personal]
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> L[Pérdida de Competitividad]
     E1 & E2 & F1 & F2 & G1 & G2 & C1 & C2 & B1 & B2 & D1 & D2 --> M[Incremento de Costos]
